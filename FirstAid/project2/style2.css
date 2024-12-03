@@ -1,0 +1,35 @@
+.img_sg{  
+    background-image: url(pics/Sterile\ Gloves2.png);
+    width: 130px;
+    height: 130px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.img_tcs{  
+    background-image: url(pics/Tough\ Cut\ Scissors2.png);
+    width: 130px;
+    height: 130px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.img_afw{  
+    background-image: url(pics/Alcohol-free\ wipes2.png);
+    width: 130px;
+    height: 130px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.img_sp{  
+    background-image: url(pics/Safety\ Pins2.png);
+    width: 130px;
+    height: 130px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.img_t{  
+    background-image: url(pics/Tape2.png);
+    width: 130px;
+    height: 130px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}

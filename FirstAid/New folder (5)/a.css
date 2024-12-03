@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(88, 85, 82);
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+table{
+    background-color: rgb(72, 132, 227);
+   /* width:500px;*/
+   /* height:200px;*/
+    /*border-width: 100px;*/
+     border: 3px solid black;
+     /*border-collapse: collapse;*/
+     border-color: rgb(41, 4, 4);
+}
+table thead td{
+    
+    font-weight: bold;
+    border:blue;
+    color:rgb(8, 22, 104);
+  /*  width:100px;*/
+    height:70px;
+    border-style: ridge;
+    border-color: rgb(11, 11, 12);
+   
+    text-align: center;
+}
+table th{
+    /*border: 2px solid black;*/
+    padding: 15px;
+    color: #220b97;
+    border-style: dashed;
+    border-color:  gold;
+}
+table td{
+    /*border: 2px solid black;*/
+   color: #220b97;
+    border-style: dashed;
+    border-color: gold;
+}
